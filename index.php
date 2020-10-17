@@ -3,7 +3,7 @@
  * Plugin Name: Dastyar WP
  * Plugin URI: https://wordpress.com/plugins/dastyar-wp/
  * Description: پلاگین دستیار وردپرس یکی از بهترین پلاگین ها جهت بهینه سازی ، افزایش سرعت و رعایت اصول سئو می باشد.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: MatinBeigi.IR
  * Author URI: https://matinbeigi.ir
  */

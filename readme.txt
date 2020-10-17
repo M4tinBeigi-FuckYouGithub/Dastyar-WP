@@ -1,10 +1,10 @@
 === Dastyar WP ===
 Contributors: MatinBeigi
-Donate link: https://matinbeigi.ir/donation/
+Donate link: https://matinbeigi.ir/
 Tags: speed,security
 Requires at least: 4.7
 Tested up to: 5.5
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -34,4 +34,7 @@ Go to تنظیمات > دستیار وردپرس
 
 = 1.0 =
 * First version.
-
+= 1.0.1 =
+* بروزرسانی تصاویر و ایکون پلاگین
+= 1.0.2 =
+* بروزرسانی ظاهر سایت
